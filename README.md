@@ -1,6 +1,6 @@
 <img width="40" height="40" src="https://img.icons8.com/office/40/spiderman-head--v1.png" alt="spiderman-head--v1"/> <h1>Angélica Mattos</h1> **`Desenvolvedora Full Stack`**
 
-Me chamo *Angélica Mattos* e sou graduado(a) em Análise e Desenvolvimento de Sistemas. Atualmente, atuo Engenheira de Dados Trainee onde aplico meus conhecimentos para automatizar e otimizar processos relacionados ao tratamento e visualização de dados.
+Me chamo *Angélica Mattos* e sou graduado(a) em Análise e Desenvolvimento de Sistemas. Atualmente, atuo como Engenheira de Dados Trainee onde aplico meus conhecimentos para automatizar e otimizar processos relacionados ao tratamento e visualização de dados.
 
 Ao longo da minha trajetória, desenvolvi experiência prática com tecnologias como Python, JavaScript, JSON, Data Factory e Databricks, além de sólidos conhecimentos em computação em nuvem, com foco em Azure e AWS. Sou apaixonado(a) por tecnologia e estou sempre em busca de novos aprendizados e formas de entregar soluções eficientes e inovadoras.
 <p>
