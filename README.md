@@ -1,8 +1,16 @@
-<img width="40" height="40" src="https://img.icons8.com/office/40/spiderman-head--v1.png" alt="spiderman-head--v1"/> <h1>Angélica Mattos</h1> **`Data Engineer| Dev Full Stack`**
+<img width="40" height="40" src="https://img.icons8.com/office/40/spiderman-head--v1.png" alt="spiderman-head--v1"/> <h1>Angélica Mattos</h1> **`Data Engineer| Dev FullStack`**
 
-Me chamo *Angélica Mattos* e sou graduado(a) em Análise e Desenvolvimento de Sistemas. Atualmente, atuo como Engenheira de Dados Trainee onde aplico meus conhecimentos para automatizar e otimizar processos relacionados ao tratamento e visualização de dados.
+Graduada em Análise e Desenvolvimento de Sistemas, atualmente atuo como Estagiária em Engenharia de Dados. Minha principal missão é aplicar conhecimentos técnicos para automatizar e otimizar processos de tratamento e visualização de dados.
 
-Ao longo da minha trajetória, desenvolvi experiência prática com tecnologias como Python, JavaScript, JSON, Data Factory e Databricks, além de sólidos conhecimentos em computação em nuvem, com foco em Azure e AWS. Sou apaixonado(a) por tecnologia e estou sempre em busca de novos aprendizados e formas de entregar soluções eficientes e inovadoras.
+Tenho experiência na implementação de fluxos de ETL/ELT escaláveis com PySpark, garantindo desempenho, confiabilidade e integridade dos dados. Também sou responsável pelo monitoramento, troubleshooting e manutenção de jobs e clusters, assegurando a continuidade e eficiência das operações.
+
+Atuo com ingestão automatizada de arquivos via conexões SFTP no Azure Data Factory, integrações com APIs REST para automação de processos, gestão de triggers, monitoramento e tratamento de falhas. Além disso, realizo consultoria técnica na integração entre bancos de dados e dashboards no Power BI, garantindo relatórios precisos, atualizados e com alto desempenho.
+
+Ao longo da minha trajetória, desenvolvi habilidades práticas com tecnologias como Python, JavaScript, JSON, Azure Data Factory e Databricks, além de sólidos conhecimentos em computação em nuvem, com foco em Azure e AWS.
+
+Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados e formas de entregar soluções eficientes e inovadoras.
+
+
 <p>
     <a href="https://github.com/AngelMtts?tab=repositories&sort=stargazers">
         <img 
@@ -117,6 +125,15 @@ Ao longo da minha trajetória, desenvolvi experiência prática com tecnologias 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img
+
+    alien = "left"
+    alt = "PowerBI"
+    title = "PowerBI"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src ="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021"
+/>
 <br/>
 <br/>
 
