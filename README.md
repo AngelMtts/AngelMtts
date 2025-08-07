@@ -139,7 +139,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados e fo
     title = "Databricks"
     width = "30px"
     style = "padding-right: 10px;"
-    src = "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000](https://image.pngaaa.com/486/5661486-middle.png"
+    src = "https://image.pngaaa.com/486/5661486-middle.png"
 />
 <br/>
 <br/>
