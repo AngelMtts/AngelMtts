@@ -133,14 +133,6 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados e fo
     style = "padding-right: 10px;"
     src = "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"
 />
-<img
-    align = "left"
-    alt = "Databricks"
-    title = "Databricks"
-    width = "100px"
-    style = "padding-right: 10px;"
-    src = "https://companieslogo.com/img/orig/databricks_BIG-3be0f84a.png?t=1720244494"
-/>
 <br/>
 <br/>
 
