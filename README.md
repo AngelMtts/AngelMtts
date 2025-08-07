@@ -138,7 +138,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados e fo
     alt = "Databricks"
     title = "Databricks"
     width = "30px"
-    style = "padding-right: 60px;"
+    style = "padding-right: 10px;"
     src = "https://companieslogo.com/img/orig/databricks_BIG-3be0f84a.png?t=1720244494"
 />
 <br/>
