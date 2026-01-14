@@ -1,4 +1,4 @@
-<img width="40" height="40" src="https://img.icons8.com/office/40/spiderman-head--v1.png" alt="spiderman-head--v1"/> <h1>Angélica Mattos</h1> **`Data Engineer| Dev FullStack`**
+<img width="40" height="40" src="https://img.icons8.com/office/40/spiderman-head--v1.png" alt="spiderman-head--v1"/> <h1>Angélica Mattos</h1> **`Data Engineer`**
 
 Graduada em Análise e Desenvolvimento de Sistemas, atualmente atuo como Estagiária em Engenharia de Dados. Minha principal missão é aplicar conhecimentos técnicos para automatizar e otimizar processos de tratamento e visualização de dados.
 
