@@ -6,7 +6,7 @@ Tenho experiência na implementação de fluxos de ETL/ELT escaláveis com PySpa
 
 Atuo com ingestão automatizada de arquivos via conexões SFTP no Azure Data Factory, integrações com APIs REST para automação de processos, gestão de triggers, monitoramento e tratamento de falhas. Além disso, realizo consultoria técnica na integração entre bancos de dados e dashboards no Power BI, garantindo relatórios precisos, atualizados e com alto desempenho.
 
-Ao longo da minha trajetória, desenvolvi habilidades práticas com tecnologias como Python, JavaScript, JSON, Azure Data Factory e Databricks, além de sólidos conhecimentos em computação em nuvem, com foco em Azure e AWS.
+Ao longo da minha trajetória, desenvolvi habilidades práticas com tecnologias como Python,Spark SQL, JavaScript, JSON, Azure Data Factory e Databricks, além de sólidos conhecimentos em computação em nuvem, com foco em Azure e AWS.
 
 Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados e formas de entregar soluções eficientes e inovadoras.
 
